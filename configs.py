@@ -16,18 +16,18 @@ class Config(object):
     
     
     
-🤖 My Name: <a href='https://youtube.com/@GreyMattersBot'>Link Search Bot</a>
+🤖 My Name: <a href='https://youtube.com/@botninjaofficial'>Link Search Bot</a>
 
 📝 Language : <a href='https://www.python.org'> Python V3</a>
 
 📚 Library: <a href='https://docs.pyrogram.org'> Pyrogram</a>
 
-📡 Server: <a href='koyeb.com'>Koyeb</a>
+📡 Server: <a href='render.com'>render</a>
 
-👨‍💻 Created By: <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a></b>
+👨‍💻 Created By: <a href='https://t.me/SAHARAN_09'>SAHARAN_09</a></b>
 """
 
-    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/GreyMatter_Bot'>GreyMatter's Bot</a>
+    ABOUT_HELP_TEXT = """<b>👨‍💻 Creator : <a href='https://t.me/SAHARAN_09'>SAHARAN_09</a>
 If You Want Your Own Bot Like This Then You Can Contact Our Creator.</b>
 """
 
@@ -38,7 +38,7 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @SAHARAN_09</a></b>
 """
 
 
@@ -49,6 +49,6 @@ I'm Link Search Bot.🤖
 
 I Can Search 🔍 What You Want❗
 
-<a>Made With ❤ By @GreyMatter_Bots</a></b>
+<a>Made With ❤ By @SAHARAN_09</a></b>
 """
 
