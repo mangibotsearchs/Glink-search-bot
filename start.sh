@@ -1,6 +1,6 @@
 echo "Cloning Repo...."
-git clone https://github.com/Greymattersbot/link-search-bot---mdisk-search-bot /Mdisk-Search-Bot
-cd /Mdisk-Search-Bot
+git clone https://github.com/mangibotsearchs/Glink-search-bot /Glink-search-bot 
+cd /Glink-search-bot 
 pip3 install -r requirements.txt
-echo "Starting Bot....GreyMatter_Bots"
+echo "Starting Bot.... BOTNINJA-official"
 python3 main.py
